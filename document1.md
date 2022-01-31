@@ -1,3 +1,7 @@
+# Section 1
+
+## Subsection A
+
 **Project 1**
 
 *text*
