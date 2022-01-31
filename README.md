@@ -55,8 +55,8 @@ or like this
 
 5. Projects will be submitted via:
 [ ] The teams site
-[ ] Github classroom
-[x] Personal git repos 
+[x] Github classroom
+[ ] Personal git repos 
 [ ] Blackboard
 
 6. Major announcements will be made:
